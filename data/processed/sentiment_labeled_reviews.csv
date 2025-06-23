@@ -1,0 +1,5 @@
+| review\_id | product\_id | user\_id | sentiment | polarity\_score |
+| ---------- | ----------- | -------- | --------- | --------------- |
+| R001       | P001        | U001     | positive  | 0.92            |
+| R002       | P002        | U002     | negative  | -0.67           |
+| R003       | P003        | U003     | neutral   | 0.10            |

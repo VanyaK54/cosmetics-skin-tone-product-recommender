@@ -1,0 +1,5 @@
+| influencer  | product\_id | sentiment | review\_excerpt                                                 |
+| ----------- | ----------- | --------- | --------------------------------------------------------------- |
+| @beautybee  | P001        | positive  | "Perfect match for Indian skin tones, gives a smooth finish."   |
+| @glowwithjo | P002        | neutral   | "Color payoff is fine, not long lasting though."                |
+| @shadequeen | P003        | positive  | "This blush is my go-to for deep skin tones, love the pigment." |

@@ -1,0 +1,5 @@
+| product\_id | product\_name         | category   | shade        | brand     | price |
+| ----------- | --------------------- | ---------- | ------------ | --------- | ----- |
+| P001        | Dewy Foundation       | Foundation | Honey Beige  | LumaGlow  | 35.99 |
+| P002        | Velvet Matte Lipstick | Lipstick   | Crimson Kiss | PureBloom | 22.50 |
+| P003        | Mineral Blush         | Blush      | Coral Sunset | TrueTints | 18.75 |

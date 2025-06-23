@@ -1,0 +1,5 @@
+| review\_id | product\_id | user\_id | review\_text                                                           |
+| ---------- | ----------- | -------- | ---------------------------------------------------------------------- |
+| R001       | P001        | U001     | "This foundation blends so well with my skin tone. I love the finish!" |
+| R002       | P002        | U002     | "The color was too bright for my complexion, didn’t suit me at all."   |
+| R003       | P003        | U003     | "Nice texture and subtle shade, but it fades away too quickly."        |

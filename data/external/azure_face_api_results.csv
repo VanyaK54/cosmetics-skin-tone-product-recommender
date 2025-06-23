@@ -1,0 +1,5 @@
+| user\_id | skin\_tone\_score | confidence | api\_version |
+| -------- | ----------------- | ---------- | ------------ |
+| U001     | medium            | 0.88       | v1.0         |
+| U002     | fair              | 0.93       | v1.0         |
+| U003     | deep              | 0.90       | v1.0         |

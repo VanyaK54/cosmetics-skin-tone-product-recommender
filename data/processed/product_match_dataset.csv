@@ -1,0 +1,5 @@
+| user\_id | detected\_skin\_tone | top\_positive\_product\_ids | top\_negative\_product\_ids |
+| -------- | -------------------- | --------------------------- | --------------------------- |
+| U001     | medium               | \['P001']                   | \[]                         |
+| U002     | fair                 | \[]                         | \['P002']                   |
+| U003     | deep                 | \['P003']                   | \[]                         |

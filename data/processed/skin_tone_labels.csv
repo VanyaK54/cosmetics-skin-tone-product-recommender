@@ -1,0 +1,5 @@
+| user\_id | image\_path           | detected\_skin\_tone |
+| -------- | --------------------- | -------------------- |
+| U001     | images/U001\_face.jpg | medium               |
+| U002     | images/U002\_face.jpg | fair                 |
+| U003     | images/U003\_face.jpg | deep                 |
